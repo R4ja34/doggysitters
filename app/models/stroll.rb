@@ -1,0 +1,2 @@
+class Stroll < ApplicationRecord
+end
