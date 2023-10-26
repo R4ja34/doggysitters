@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 ruby "3.2.2"
+gem "faker"
+gem"table_print"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.1"
