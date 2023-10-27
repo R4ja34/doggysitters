@@ -43,3 +43,6 @@ dog = Dog.all
     Stroll.create(date: date, dogsitter: dogsitter, dog: dog, city: city)
   end
 end
+
+# dogsitter_id = 4
+# strolls = Stroll.where(dogsitter_id: dogsitter_id)
